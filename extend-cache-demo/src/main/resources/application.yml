@@ -1,0 +1,7 @@
+spring:
+  redis:
+    host: 172.28.0.200
+  cache:
+    type: redis
+server:
+  port: 8081

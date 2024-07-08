@@ -1,0 +1,46 @@
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+/extend-cache-demo/*.iml
+/extend-cache-framework/*.iml
+.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+/simple-tomcat/.mvn/
+/simple-tomcat/mvnw
+/simple-tomcat/mvnw.cmd
+/netty-web/.mvn/
+/netty-web/HELP.md
+/netty-web/mvnw
+/netty-web/mvnw.cmd
+/java-agent/agent-demo/dependency-reduced-pom.xml
+/java-agent/byte-buddy-agent/dependency-reduced-pom.xml
+/extend-cache-demo/target/
+/extend-cache-framework/target/
